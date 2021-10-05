@@ -1,0 +1,3 @@
+%parameter define;
+a=[];
+b=[];
