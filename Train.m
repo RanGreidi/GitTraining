@@ -1,3 +1,3 @@
 %parameter define;
-a=[];
-b=[];
+p=[];
+c=[];
